@@ -5,4 +5,4 @@ print(x)
 print(y)
 print(z)
 
-2my-first_name = "John"
+myfirst_name = "John"
